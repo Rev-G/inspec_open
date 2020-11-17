@@ -1,0 +1,6 @@
+name: Test_Linux_Profile
+description: Palmer Test
+maintainer: Palmer
+copyright_email: palmer@palmer.com
+supports: Linux
+version: 1.0
