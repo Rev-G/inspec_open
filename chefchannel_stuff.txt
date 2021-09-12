@@ -1,0 +1,8 @@
+http://packages.chef.io/files/${CHANNEL}/inspec/4.37.30/el/7/inspec-4.37.30-1.el7.x86_64.rpm
+
+http://packages.chef.io/files/stable/inspec/4.37.30/el/7/
+
+https://packages.chef.io/files/stable/inspec/4.37.30/el/8/inspec-4.37.30-1.el8.x86_64.rpm
+
+
+wget "https://packages.chef.io/files/stable/inspec/4.37.30/el/8/inspec-4.37.30-1.el8.x86_64.rpm" -O /tmp/inspec.rpm
